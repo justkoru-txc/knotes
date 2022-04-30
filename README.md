@@ -9,4 +9,17 @@ Note creation and deletion
 
 Information of notes
 
-Device storage
+Save notes on device storage
+
+**Coming Soon:**
+
+Windows and Android app
+
+New UI
+
+Non-online app
+
+More functions
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I8CFNWG)
