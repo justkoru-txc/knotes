@@ -4,4 +4,4 @@ A quick notes app easy to use with a lot of functions! Chick [here](https://note
 
 **Available functions:**
 
-Note creation
+Note creation and deletion
